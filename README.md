@@ -1,5 +1,6 @@
 # 【大一下】C语言程序设计
 > **相关链接**
+
 > 雪梨教育 [http://www.edu2act.cn/team/2016-ji-cheng-xu-she-ji-ji-chu-C-yu-yan/home/](http://www.edu2act.cn/team/2016-ji-cheng-xu-she-ji-ji-chu-C-yu-yan/home/)
 
 ## 目录
@@ -17,7 +18,7 @@
 
 4、注释不可以出现在关键字中，编译预处理时，注释会自动变为一个空格 
 
-5、编辑：键入、修改代码 ；
+5、编辑：键入、修改代码；
 
    编译：将文件转化成二进制文件；
    
