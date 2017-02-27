@@ -1,2 +1,3 @@
-# Professional-Learning
-专业课的学习资料、笔记、练习
+# 【大一下】C语言程序设计
+> 相关链接
+> 雪梨教育 [http://www.edu2act.cn/team/2016-ji-cheng-xu-she-ji-ji-chu-C-yu-yan/home/](http://www.edu2act.cn/team/2016-ji-cheng-xu-she-ji-ji-chu-C-yu-yan/home/)
