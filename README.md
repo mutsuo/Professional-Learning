@@ -39,7 +39,7 @@
 
 1、 stdio.h		-->标准化输入输出头文件，其中包含“printf()”函数
 
-stdlib.h  -->library，其中包含system("pause")、system("cls")、sleep(1000)
+stdlib.h  -->library，其中包含system("pause")、system("cls")、_sleep(1000)
 
 注：
 system("cls")  //清屏
