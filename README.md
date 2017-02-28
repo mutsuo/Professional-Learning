@@ -39,7 +39,7 @@ stdlib.h  -->library，其中包含system("pause")、system("cls")、sleep(1000)
 注：
 system("cls")  //清屏
 
-sleep(1000)    //暂停一会儿
+_sleep(1000)    //暂停一会儿
 
 2、一个程序可以有多个源文件。有几个源文件，编译就生成几个obj文件（文件名同源文件）。将所有obj文件“链接”成一个文件（组合成一个文件），就是exe文件。
 
