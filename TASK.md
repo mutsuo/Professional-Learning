@@ -1,7 +1,39 @@
 # 课后练习
 
+## 作业要求
+
+* 每次提交的作业均是将代码作为**文本格式**进行提交，可以选择提交页面的“插入程序代码”进行提交。
+
+* 代码中要添加文件头注释，头注释部分包括，**说明、姓名、学号、班级、日期**等，例如：
+
+/*
+
+    *说明：说明是第几次第几个作业，或直接说明作业任务名称
+ 
+    *姓名：张三，输入自己的姓名
+ 
+    *学号：学号，可以只输入学号的后三位
+ 
+    * 班级：1班，输入自己所在班级
+ 
+    * 日期：2017/03/02，日期为编写代码的日期
+ 
+*/
+
+* 每次作业均包含多个任务，务必将每一个任务都进行提交。
+
+* 代码要有规范，要有良好的注释，整齐的缩进，适当的空行，恰当的空格。
+
 ## 目录
 
+* 2017-03-03
+	[任务01_1 向C语言问好](https://github.com/mutsuo/Professional-Learning/blob/C%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/TASK.md#任务01_1-向c语言问好)
+	[代码1](https://github.com/mutsuo/Professional-Learning/blob/C%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/TASK.md#代码)
+	[任务01_2 法老的金字塔](https://github.com/mutsuo/Professional-Learning/blob/C%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/TASK.md#任务01_2-法老的金字塔)
+	[代码2](https://github.com/mutsuo/Professional-Learning/blob/C%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/TASK.md#代码-1)
+	[任务01_3 两棵松树](https://github.com/mutsuo/Professional-Learning/blob/C%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/TASK.md#任务01_3-两棵松树)
+	[代码3](https://github.com/mutsuo/Professional-Learning/blob/C%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/TASK.md#代码-2)
+	
 ## 任务01_1 向C语言问好
 
 认真阅读下面要求，完成本次任务代码的编写。
