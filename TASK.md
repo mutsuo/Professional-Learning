@@ -28,6 +28,21 @@
 
     Nice to meet you, C! I am Guanyu.
 
+### 代码
+
+    #include<iostream> 
+    #include<stdio.h>
+    #include<stdlib.h>
+
+    int main(void){
+	
+	    printf("Nice to meet you, C! I am Deng Yang.\n");
+	
+	    //system("pause");
+	
+	    return 0;
+    }
+
 ## 任务01_2 法老的金字塔
 
 认真阅读下面要求，完成本次任务代码的编写。
@@ -61,6 +76,44 @@
 
 * * * * * * *
 
+### 代码
+
+    #include<iostream>
+    #include<stdlib.h>
+    #include<stdio.h>
+
+    int main(void){
+        printf("   *\n");
+        printf("  ***\n");
+        printf(" *****\n");
+        printf("*******\n");
+
+        //system("pause");
+
+        return 0;
+    }
+    
+【延伸思考】输出n层金字塔
+
+    #include<iostream>
+    #include<stdio.h>
+    #include<stdlib.h>
+
+    int main(void){
+        int i,j,n;
+        printf("请输入要打印金字塔的层数：");
+        scanf("%d",&n);
+
+        for (i=1;i<=n;i++) {
+            for(j=1;j<=n-i;j++) printf(" ");
+            for(j=1;j<=i;j++)  printf("* ");
+            printf("\n") ;
+        }
+
+        //system("pause");
+        return 0;
+    }
+
 ## 任务01_3 两棵松树
 
 认真阅读下面要求，完成本次任务代码的编写。
@@ -87,3 +140,19 @@
 **输出示例：**
 
 ![alt](http://7xjtx2.com1.z0.glb.clouddn.com/media/kindeditor/upload2017/0303/qv2qVMdAeqXUfp87GpKzhj.png)
+
+### 代码
+
+    #include<iostream> 
+    #include<stdlib.h>
+    #include<stdio.h>
+
+    int main(void) {
+        printf("  *      *\n");
+        printf(" ***    ***\n");
+        printf("*****  *****\n");
+        printf(" | |    | |\n");
+
+        //system("pause") ;
+        return 0;
+    }
