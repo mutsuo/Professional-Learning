@@ -92,6 +92,8 @@ _参考链接：[离散变量](http://wiki.mbalib.com/wiki/%E7%A6%BB%E6%95%A3%E5
 
 **（5）码元**：在使用时域的波形表示数字信号时，代表不同离散数值的基本波形。
 
+_※[时域](http://baike.baidu.com/link?url=iJbWYydKYf8fjgW1I9dmK8-cVSbCtUNIUljlh2AzgQpcE3Qm1Exrrw75SQPS_cL_V0AqywRvejoN7vCoPMeiGK-M0ttQ6QU5wL_r9dpbcNy)：域表示范围，时域是一个数学或物理词汇，表示以时间为轴线，以时间为标尺为基准。_
+
     a. 一种电平代表一个码元。
 
     b. 一码元最少可以携带一个比特信息，但在经过特殊技术处理之后，可以携带多个比特信息。
