@@ -107,7 +107,7 @@ _※[时域](http://baike.baidu.com/link?url=iJbWYydKYf8fjgW1I9dmK8-cVSbCtUNIUlj
        若有若干码元，携带着x比特信息，码元速率为m
        
        则 数据率=x*m bps
-       
+
 **[码元传输速率](https://zhidao.baidu.com/question/573502304.html?fr=ala&word=%E6%95%B0%E6%8D%AE%E7%8E%87%20%E7%A0%81%E5%85%83%E9%80%9F%E7%8E%87&device=mobile&ssid=0&from=1015467z&uid=0&pu=usm@0,sz@320_1001,ta@iphone_2_6.0_3_537&bd_page_type=1&baiduid=492C5A4B2F272F2208EEE3F1768A6CAA&tj=zhidao_1_0_10_l3
 )**：又称波特率，或传码率、调制速率，记作RB，以波形每秒的振荡数来衡量。如果数据不压缩，波特率等于每秒钟传输的数据位数，如果数据进行了压缩，那么每秒钟传输的数据位数通常大于调制速率，使得交换使用波特和比特/秒偶尔会产生错误。波特率是指数据信号对载波的调制速率，它用单位时间内载波调制状态改变的次数来表示，其单位是波特（Baud）。
 
