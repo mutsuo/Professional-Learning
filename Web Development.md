@@ -322,11 +322,11 @@ https:htmlpreview.github.io/?
 
 （1）段落：网页中显示的一段文字
 
-<p></p>
+    <p></p>
 
 （2）水平线
 
-<hr />
+    <hr />
 
 （3）实体：用来替换html内容的预留字符
 
@@ -334,7 +334,7 @@ https:htmlpreview.github.io/?
 
 （4）页面注释：
 
-<!--内容-->
+    <!--内容-->
 
 快捷键：ctrl+\
 
