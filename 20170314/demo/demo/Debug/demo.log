@@ -1,0 +1,5 @@
+﻿  demo.c
+d:\快盘\！！学习\！大学\！大一\大一下\c语言程序设计\20170314\demo\demo\demo.c(5): warning C4013: “gets”未定义；假设外部返回 int
+d:\快盘\！！学习\！大学\！大一\大一下\c语言程序设计\20170314\demo\demo\demo.c(5): warning C4047: “!=”:“int”与“void *”的间接级别不同
+  demo.vcxproj -> D:\快盘\！！学习\！大学\！大一\大一下\C语言程序设计\20170314\demo\Debug\demo.exe
+  demo.vcxproj -> D:\快盘\！！学习\！大学\！大一\大一下\C语言程序设计\20170314\demo\Debug\demo.pdb (Full PDB)
