@@ -1,0 +1,42 @@
+#titlediv{
+	background-image:url(../image/left_nav_title.gif);
+	background-repeat:no-repeat;
+	width:183px;
+	height:35px;
+	color:white;
+	padding-top:12px;
+	text-align:center;
+}
+.footerdiv{
+	background-image:url(../image/left_nav_bottom.gif);
+	width:183px;
+	height:35px;
+}
+ul{
+	margin:0px;
+	list-style-type:none;
+	list-style-image:url(../image/left_cur.gif);
+	background-image:url(../image/left_nav_txt.gif);
+	width:183px;
+	background-repeat:repeat-y;
+}
+ul li{
+	
+    width: 183px;
+	text-align:left;
+	height: 30px;
+	padding-top: 5px;
+	background-image: url(../image/left_nav_item.gif);
+	background-position:-3em 90%;
+	background-repeat: no-repeat;
+  }
+ .checked a{
+ 	color:red;
+ 	
+ }
+ a{
+ 	text-decoration:none;
+ }
+ body{
+ 	font-family:宋体;
+ }
