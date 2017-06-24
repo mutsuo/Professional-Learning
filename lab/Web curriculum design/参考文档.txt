@@ -1,0 +1,27 @@
+web设计尺寸：https://www.zhihu.com/question/23185173
+颜色调整：http://www.cnblogs.com/moqiutao/p/4843437.html
+二级导航栏：http://jingyan.baidu.com/article/90895e0f94df7464ec6b0b3a.html
+link和visited只对链接有效
+active focus hover对元素有效
+设计参考：http://www.zcool.com.cn/work/ZMjE3NTI3MzI=.html
+
+颜色
+Home
+nav：#5c5cb6
+	shadow：#262665
+	font：white
+	border:#373635
+about
+	bg:#dcefea
+	border:#262664
+	video.js插件：http://www.jq22.com/jquery-info404
+	font:#2f2f2f
+footer
+	bg:#0e0e26
+
+
+content
+	font h2:#cecbcb
+	uad font:#5c5cb6
+16 9
+320 180
