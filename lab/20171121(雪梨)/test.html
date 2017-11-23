@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta charset="utf-8" />
+	<style type="text/css">
+	#show{
+		background-color:gray;
+	}
+	</style>
+</head>
+<body>
+	<input type="button" value="here" onclick="clik();"/>
+	<div id="1">
+			<h1>哈哈</h1>
+	</div>
+	<div id="2">
+		<h1>兮兮</h1>
+	</div>
+	<div id="show"><div><h1>哈哈</h1></div></div>
+</body>
+<script type="text/javascript">
+	var i=0;
+	var e1=document.getElementById("1");
+	var e2=document.getElementById("2");
+	document.body.removeChild(e1);
+	document.body.removeChild(e2);
+	// var e3=
+	var arr=new Array(e1,e2);
+	console.log(arr);
+	function clik(){
+			console.log(e1);
+			console.log(e2);
+			var show=document.getElementById("show");
+			var child=show.childNodes[0];
+			// console.log(child);
+			// show.removeChild(child);
+			// show.appendChild(arr[i++%2]);	
+			show.replaceChild(arr[i++%2],child);
+	}
+	
+</script>
+</html>
